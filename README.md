@@ -1,16 +1,16 @@
 # Flutter Dart kullanılarak geliştirilmiş olan Telefon Rehberi Uygulamasıdır
 
-#Özellikleri
+# Özellikleri
 
-# - Kişi Ekle 
+## - Kişi Ekle 
 
-# - Resim Çekme
+## - Resim Çekme
 
-# - Kişi Silme 
+## - Kişi Silme 
 
-# - Kişi Düzenleme
+## - Kişi Düzenleme
 
-## CODED BY TURKLOJEN & MUHAMMED YASİN BULUT
+# CODED BY TURKLOJEN & MUHAMMED YASİN BULUT
 
 
 ![Screenshot_1586813136](https://user-images.githubusercontent.com/32311900/79162834-9c82f680-7de6-11ea-8571-b772c10a5ba9.png)
