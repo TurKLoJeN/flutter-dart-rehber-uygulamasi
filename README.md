@@ -10,7 +10,6 @@
 
 ## - Kişi Düzenleme
 
-# CODED BY TURKLOJEN & MUHAMMED YASİN BULUT
 
 ### NOT : phone_book isimli bir klasör oluşturup proje dosyalarını içine atınız aksi taktirde çalışmaz
 
